@@ -1,0 +1,58 @@
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Content\loser.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Content\Me.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Content\Soccer.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Content\UWB-JPG.jpg
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Content\UWB-PNG.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Content\winner.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\loser.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\Me.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\Soccer.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\UWB-JPG.jpg
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\UWB-PNG.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\winner.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Content\Arial.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\Arial.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\Arrow.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Rocket.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Jogo.exe
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Jogo.pdb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\obj\x86\Debug\Jogo.exe
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\obj\x86\Debug\Jogo.pdb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Content\Insect.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Content\Net.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Content\Rocket.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\Chaser.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\Insect.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\Net.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\Position.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\Rocket.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\obj\x86\Debug\Jogo2.csprojResolveAssemblyReference.cache
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Content\Chaser.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\Chaser.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\Content\Arrow.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo_2\Jogo\bin\DesktopGL\x86\Debug\GraphicsSupport\Arrow.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\obj\x86\Debug\Jogo.exe
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\obj\x86\Debug\Jogo.pdb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Content\Arrow.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Rocket.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Content\Chaser.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Content\loser.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Content\Me.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Content\Soccer.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Content\UWB-JPG.jpg
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Content\UWB-PNG.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Content\winner.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Content\Arial.xnb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Jogo.exe
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Jogo.pdb
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\obj\x86\Debug\Jogo2.csprojResolveAssemblyReference.cache
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Content\Rocket.png
+C:\Users\Ze Nando\Documents\Visual Studio 2015\Projects\Jogo Foguetao\Jogo\bin\DesktopGL\x86\Debug\Content\Position.png
